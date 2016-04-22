@@ -1,0 +1,23 @@
+.section-seven .content{width: 100%;max-width: 100%;background:url("../images/banner5.jpg")  no-repeat 50%;height: 440px;text-align: center;}
+.section-five .content{width: 100%;max-width: 100%;background:url("../images/banner3.jpg")  no-repeat 50%;height: 220px;text-align: center;}
+.section-six .content{text-align: center;}
+.section-eight .content{width: 100%;max-width: 100%;text-align: center;}
+.section-one .fp-tableCell{background-color: #1D599F}
+
+.section-four p{margin: 40px}
+
+
+.OnlineService_Bg li{list-style:none}
+.OnlineService_Bg img{border:none;}
+.OnlineService_Bg {width:120px;overflow:hidden;position:fixed;left:10px;bottom:140px;z-index:10;}
+.OnlineService_Box {width:100%;overflow:hidden;}
+.OnlineService_QQBox {width:88px;overflow:hidden;border:1px solid #cecece;margin-bottom:10px;background:#f5f5f5;}
+.OnlineService_QQBox li {width:auto;height:35px;overflow:hidden;padding-left:34px;font-size:12px;line-height:35px;color:#666;background:url(icon_QQ1.png) no-repeat 5px center;cursor:pointer}
+.OnlineService_QQBox li:hover {filter:alpha(opacity=50); /*IE滤镜，透明度50%*/-moz-opacity:0.5; /*Firefox私有，透明度50%*/opacity:0.5;/*其他，透明度50%*/}
+.OnlineService_QQBox li a {text-decoration: none;color: #666;}
+.OnlineService_Phone {width:120px;height:90px;margin-bottom:10px;}
+.OnlineService_Phone a {display:block;width:120px;background-color:#e33043;padding-top:57px;line-height:30px;font-size:16px;text-align:center;color:#fff;background-image:url("../images/icon_Online.png");background-repeat:no-repeat;background-position:center 8px;cursor:pointer;text-decoration:none;color:#fff}
+.OnlineService_Sign {width:120px;margin-bottom:10px;background-color:#e33043;padding-top:57px;line-height:30px;font-size:16px;text-align:center;color:#fff;cursor:pointer;background-image:url("../images/t16.png");background-repeat:no-repeat;background-position:center 10px;}
+.OnlineService_Top {width:120px;height:90px;margin-bottom:10px;}
+.OnlineService_Top a {display:block;width:120px;background-color:#e33043;padding-top:57px;line-height:30px;font-size:16px;text-align:center;color:#fff;background-image:url("../images/icon_Top.png");background-repeat:no-repeat;background-position:center 8px;cursor:pointer;text-decoration:none;color:#fff}
+
